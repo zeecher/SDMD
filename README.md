@@ -95,6 +95,15 @@ Scope
 
 ## Chapter 2
 Evaluation of Web Service Provisioning Frameworks in Service Oriented Architecture for Mobile Clients (SOAP and REST)
+* Differeciate two frameworks form each other
+* How SOAP works 
+* How REST works
+* What are the different aspects of these frameworks
+* Which framework is reasonable for mobile clients
+* Why it is reasionable
+
+###### Links
+
 * [Evaluation of Distributed SOAP and RESTful Mobile Web Services ] (http://epubs.surrey.ac.uk/125638/1/netser_v3_n34_2010_11.pdf)
 * [Representational State Transfer Representational State Transfer (REST)] (http://www.peej.co.uk/articles/rest.html#FFSHARE-close)
 * [REST vs SOAP. Часть 1. Почувствуйте разницу] (http://habrahabr.ru/post/131343/)
