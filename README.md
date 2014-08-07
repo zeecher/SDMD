@@ -100,7 +100,7 @@ Evaluation of Web Service Provisioning Frameworks in Service Oriented Architectu
 * How REST works
 * What are the different aspects of these frameworks
 * Which framework is reasonable for mobile clients
-* Why it is reasionable
+* Why it is reasonable
 
 ###### Links
 
