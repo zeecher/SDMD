@@ -109,6 +109,9 @@ Evaluation of Web Service Provisioning Frameworks in Service Oriented Architectu
 * [REST vs SOAP. Часть 1. Почувствуйте разницу] (http://habrahabr.ru/post/131343/)
 * [SOAP vs REST (differences)] (http://stackoverflow.com/questions/19884295/soap-vs-rest-differences)
 * [Understanding SOAP and REST Basics] (http://blog.smartbear.com/apis/understanding-soap-and-rest-basics/)
+* [Why REST + JSON is preferred over SOAP for mobile web services] (http://www.bamboorocketapps.com/rest-json-vs-soap-xml/)
+* [REST Vs SOAP, The Difference Between Soap And Rest] (http://spf13.com/post/soap-vs-rest)
+* [REST vs. SOAP – The Right WebService] (http://geeknizer.com/rest-vs-soap-using-http-choosing-the-right-webservice-protocol/)
 * Video
 * [SOAP vs RESTful Web services - Atlantic IT Center](http://www.youtube.com/watch?v=wzho20lIWWM)
 
