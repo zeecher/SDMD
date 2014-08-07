@@ -88,6 +88,10 @@ Scope
 
 ###### Links
 
+---
+###### Comparison
+* [Appcelerator Titanium vs PhoneGap: which produces better native apps?] (http://www.quora.com/Appcelerator-Titanium-vs-PhoneGap-which-produces-better-native-apps)
+
 
 ## Chapter 2
 Evaluation of Web Service Provisioning Frameworks in Service Oriented Architecture for Mobile Clients (SOAP and REST)
